@@ -1,5 +1,3 @@
-echo "hi"
-
 # DeepIntent Branch Sync Plugin
 dis() {
   branchToSyncWith="$1"
